@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "21"
+mappingDefinitions:
+  SAMPLE:
+    database: samples
+    schema: tpch
+  WORK:
+    database: mikem_dev
+    schema: target
+name: Databricks Demo II Environment
+type: Environment
